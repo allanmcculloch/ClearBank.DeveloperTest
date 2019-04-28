@@ -1,0 +1,7 @@
+bin/
+obj/
+packages/
+*.csproj.user
+*.DotSettings.user
+*.suo
+.vs/
